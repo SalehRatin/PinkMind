@@ -10,3 +10,10 @@ import './styles/app.css';
 
 // start the Stimulus application
 import './bootstrap';
+
+import React from 'react'
+
+const Main = () => {
+    return console.log('Hello')
+}
+export default Main
